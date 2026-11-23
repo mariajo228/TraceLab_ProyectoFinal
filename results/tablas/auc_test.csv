@@ -1,0 +1,7 @@
+modalidad,nivel,AUC,promedio_positivos,promedio_negativos,cantidad_positivos,cantidad_negativos
+mandalas,dificil,0.906,89.327,70.117,150,15
+mandalas,facil,0.936,87.083,51.072,150,15
+mandalas,intermedio,0.937,88.235,58.747,150,15
+siluetas,dificil,0.994,91.994,48.429,150,15
+siluetas,facil,1.000,92.052,29.953,150,15
+siluetas,intermedio,1.000,91.469,33.932,150,15

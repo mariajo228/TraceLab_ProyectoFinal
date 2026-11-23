@@ -1,0 +1,10 @@
+# Versión de Streamlit acotada: el código usa use_container_width, que versiones
+# futuras eliminan. Si actualizas Streamlit, cambia por width="stretch".
+streamlit>=1.40,<1.50
+numpy
+pandas
+pillow
+opencv-python-headless
+scikit-image
+scipy
+matplotlib
