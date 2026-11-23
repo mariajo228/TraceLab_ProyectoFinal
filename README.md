@@ -6,7 +6,7 @@ un **porcentaje de similitud visual** con una explicación y un mapa de diferenc
 
 > Proyecto Final · Procesamiento Digital de Imágenes 2026-2 · Universidad Autónoma de Occidente
 > Tema: Análisis de la Expresión Humana en el Arte y la Cultura
-> Autores: **[COMPLETAR: nombres]** · Profesor: Nicolas Llanos Neuta
+> Autores: **Maria Jose asprilla y Mariana Rengifo ]** · Profesor: Nicolas Llanos Neuta
 
 ## ¿Cómo funciona?
 
